@@ -1,2 +1,9 @@
 # ML_intro
-#technical_discussions
+# technical_discussions
+
+## the second heading
+
+* one 
+* two
+* three
+
